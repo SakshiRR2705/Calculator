@@ -6,7 +6,7 @@ public class SimpleCalculator {
         double number1;
         double number2;
         char operator;
-        System.out.println("sonam: ");
+        System.out.println("gayatri: ");
         System.out.println("Enter first number: ");
         num1 = input.nextDouble();
 
